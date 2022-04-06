@@ -1,3 +1,12 @@
-#vanhoxx dotfiles
+# vanhoxx dotfiles
 ![neofetch](https://raw.githubusercontent.com/vanhoxx/dotfiles/master/desktop1.png "neofetch")
 ![rofi](https://raw.githubusercontent.com/vanhoxx/dotfiles/master/desktop2.png "rofi")
+
+## About
+* bspwm
+* alacritty
+* rofi
+* dunst
+* polybar
+* picom-git
+
